@@ -1,14 +1,14 @@
 {
     "name": "GroupOyunBot",
-    "description": "@HuseynH Tərəfindən Hazırlanış Yaş Təhmini Oyun Botu.",
+    "description": "@Thagiyevvvv Tərəfindən Hazırlanış Yaş Təhmini Oyun Botu.",
     "logo": "https://telegra.ph//file/126594fe0fb9108b88a73.jpg",
     "keywords": [
         "sosis",
         "group",
         "Bot"
     ],
-    "repository": "https://github.com/Hesenovhuseyn/GroupOyunRobot",
-    "success_url": "https://github.com/Hesenovhuseyn/GroupOyunRobot",
+    "repository": "https://github.com/PornoHup/Oyunbotum",
+    "success_url": "https://github.com/PornoHup/oyunbotum",
     "image": "heroku/python",
     "formation": {
         "worker": {
